@@ -1,6 +1,6 @@
 # Digital ID tests for Stories 20-23 - WEEK 7 UPDATE
 
-Instructions for Compilation and Execution:</br></br>
+Instructions for Compilation and Execution - Tests1 and Tests2:</br></br>
 Stories 20, 21, 22, 23 and updates to HW6 stories:</br>
 Tests1.zip</br>
 Download zip file and cut or copy to testing directory in OSU Flip</br>
